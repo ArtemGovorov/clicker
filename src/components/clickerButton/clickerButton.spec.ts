@@ -1,5 +1,5 @@
 import { ComponentFixture, async } from '@angular/core/testing';
-import { TestUtils }               from '../../test';
+import { TestUtils }               from '../../testUtils';
 import { ClickerButton }           from './clickerButton';
 import { ClickerMock }             from '../../models/clicker.mock';
 
